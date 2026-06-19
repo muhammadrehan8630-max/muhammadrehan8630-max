@@ -1,16 +1,29 @@
-## Hi there 👋
+### Hi, I'm Mohd Rehan 👋
 
-<!--
-**muhammadrehan8630-max/muhammadrehan8630-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Data Analyst** | SQL · Power BI · Python (Learning)
 
-Here are some ideas to get you started:
+Self-taught data analyst from Moradabad, India, building real-world analytics projects using SQL, Power BI, and Python. Open to internship and entry-level Data Analyst opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🛠️ Skills
+**Tools:** SQL (PostgreSQL) · Power BI · DAX · Python · Pandas/NumPy · Excel · Matplotlib/Seaborn
+**Concepts:** Window Functions · CTEs · RFM Analysis · Data Cleaning · KPI Reporting · Dashboard Design
+
+---
+
+#### 📂 Featured Projects
+
+**[E-Commerce Business Insights](https://github.com/muhammadrehan8630-max/Ecommerce_Business_Insights)**
+SQL + Power BI analysis of 99,000+ orders — found delivery delays caused 1.8★ lower reviews; built KPI dashboard.
+
+**[Customer Segmentation & RFM Analysis](https://github.com/muhammadrehan8630-max/Customer-Segmentation-Analysis)**
+Cleaned 541,909 transactions, segmented 4,000+ customers via RFM scoring — Champions segment confirmed Pareto principle.
+
+**[Food Delivery Operations Analysis](https://github.com/muhammadrehan8630-max/swiggy_zomato_sql_analysis)**
+Analyzed 450,000+ delivery records — found 67% of cancellations occurred in first 10 minutes, pointing to kitchen prep delays.
+
+---
+
+#### 📫 Contact
+📧 muhammadrehan8630@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/mohd-rehan-76819832a/)
